@@ -5,6 +5,7 @@
 - [48ab0040-3c86-480d-86f1-f940c1cf0e24](./48ab0040-3c86-480d-86f1-f940c1cf0e24)
 - [93010a2c-6c2b-4b0d-99c8-5910ef984147](./93010a2c-6c2b-4b0d-99c8-5910ef984147)
 - [Resolute_current_xfce](./Resolute_current_xfce)
+- [Trixie_current_minimal](./Trixie_current_minimal)
 - [_sigma](./_sigma)
 - [archive_20260516_085847](./archive_20260516_085847)
 - [archive_20260516_100247](./archive_20260516_100247)

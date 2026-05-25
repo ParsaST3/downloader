@@ -115,6 +115,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [026549fbe63fbf618f456f88b16331b1](https://github.com/ParsaST3/downloader/tree/main/downloads/026549fbe63fbf618f456f88b16331b1)
@@ -127,16 +129,18 @@ a
 
 5. [Resolute_current_xfce](https://github.com/ParsaST3/downloader/tree/main/downloads/Resolute_current_xfce)
 
-6. [_sigma](https://github.com/ParsaST3/downloader/tree/main/downloads/_sigma)
+6. [Trixie_current_minimal](https://github.com/ParsaST3/downloader/tree/main/downloads/Trixie_current_minimal)
 
-7. [archive_20260516_085847](https://github.com/ParsaST3/downloader/tree/main/downloads/archive_20260516_085847)
+7. [_sigma](https://github.com/ParsaST3/downloader/tree/main/downloads/_sigma)
 
-8. [archive_20260516_100247](https://github.com/ParsaST3/downloader/tree/main/downloads/archive_20260516_100247)
+8. [archive_20260516_085847](https://github.com/ParsaST3/downloader/tree/main/downloads/archive_20260516_085847)
 
-9. [gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-centos32](https://github.com/ParsaST3/downloader/tree/main/downloads/gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-centos32)
+9. [archive_20260516_100247](https://github.com/ParsaST3/downloader/tree/main/downloads/archive_20260516_100247)
 
-10. [index](https://github.com/ParsaST3/downloader/tree/main/downloads/index)
+10. [gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-centos32](https://github.com/ParsaST3/downloader/tree/main/downloads/gnu-mcu-eclipse-arm-none-eabi-gcc-8.2.1-1.7-20190524-0603-centos32)
 
-11. [mhrv-rs-windows-amd64](https://github.com/ParsaST3/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+11. [index](https://github.com/ParsaST3/downloader/tree/main/downloads/index)
+
+12. [mhrv-rs-windows-amd64](https://github.com/ParsaST3/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
